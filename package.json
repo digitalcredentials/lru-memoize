@@ -1,6 +1,6 @@
 {
-  "name": "@digitalbazaar/lru-memoize",
-  "version": "2.1.1-0",
+  "name": "@digitalcredentials/lru-memoize",
+  "version": "2.1.0",
   "description": "LRU Memoize",
   "license": "BSD-3-Clause",
   "files": [
@@ -61,21 +61,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/digitalbazaar/lru-memoize"
+    "url": "https://github.com/digitalcredentials/lru-memoize"
   },
   "keywords": [
     "lru",
     "memoize"
   ],
-  "author": {
-    "name": "Digital Bazaar, Inc.",
-    "email": "support@digitalbazaar.com",
-    "url": "https://digitalbazaar.com/"
-  },
   "bugs": {
-    "url": "https://github.com/digitalbazaar/lru-memoize/issues"
+    "url": "https://github.com/digitalcredentials/lru-memoize/issues"
   },
-  "homepage": "https://github.com/digitalbazaar/lru-memoize",
   "engines": {
     "node": ">=10.0.0"
   },
