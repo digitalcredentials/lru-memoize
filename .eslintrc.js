@@ -8,5 +8,5 @@ module.exports = {
     should: true
   },
   extends: ['digitalbazaar', 'digitalbazaar/jsdoc'],
-  ignorePatterns: ['node_modules/']
+  ignorePatterns: ['node_modules/', 'dist/']
 };
