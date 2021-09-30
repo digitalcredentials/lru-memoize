@@ -1,4 +1,9 @@
-# @digitalbazaar/lru-memoize ChangeLog
+# @digitalcredentials/lru-memoize ChangeLog
+
+## 2.1.1 - 2021-09-29
+
+### Changed
+- Remove use of `esm` runtime compiler, for TypeScript and ReactNative compatibility.
 
 ## 2.1.0 - 2021-06-30
 

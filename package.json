@@ -1,6 +1,6 @@
 {
   "name": "@digitalcredentials/lru-memoize",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "LRU Memoize",
   "license": "BSD-3-Clause",
   "files": [
