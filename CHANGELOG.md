@@ -1,5 +1,13 @@
 # @digitalbazaar/lru-memoize ChangeLog
 
+## 3.0.0 - 2022-xx-xx
+
+### Changed
+- **BREAKING**: Convert to module (ESM).
+- **BREAKING**: Require Node.js >=14.
+- Update dependencies.
+- Lint module.
+
 ## 2.2.0 - 2022-02-27
 
 ### Added
