@@ -5,6 +5,9 @@
   "license": "BSD-3-Clause",
   "type": "module",
   "exports": "./lib/index.js",
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "test": "npm run test-node",
     "test-node": "cross-env NODE_ENV=test mocha --preserve-symlinks -t 30000 -A -R ${REPORTER:-spec} --require tests/test-mocha.js tests/*.spec.js",
@@ -14,9 +17,6 @@
     "coverage-report": "c8 report",
     "lint": "eslint ."
   },
-  "files": [
-    "lib"
-  ],
   "dependencies": {
     "lru-cache": "^6.0.0"
   },
