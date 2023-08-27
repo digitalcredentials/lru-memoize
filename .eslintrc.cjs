@@ -1,4 +1,5 @@
 module.exports = {
+  root: true,
   env: {
     node: true
   },
@@ -7,6 +8,7 @@ module.exports = {
     'digitalbazaar/jsdoc',
     'digitalbazaar/module'
   ],
+  ignorePatterns: ['node_modules/'],
   rules: {
     'unicorn/prefer-node-protocol': 'error'
   }

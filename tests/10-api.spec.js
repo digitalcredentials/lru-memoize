@@ -1,8 +1,8 @@
 /*!
- * Copyright (c) 2020-2022 Digital Bazaar, Inc. All rights reserved.
+ * Copyright (c) 2020-2023 Digital Bazaar, Inc. All rights reserved.
  */
-import {LruCache} from '../lib/index.js';
 import delay from 'delay';
+import {LruCache} from '../lib/index.js';
 
 describe('API', () => {
   it('has the proper exports', async () => {
