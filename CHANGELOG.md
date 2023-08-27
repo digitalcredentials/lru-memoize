@@ -1,6 +1,6 @@
 # @digitalbazaar/lru-memoize ChangeLog
 
-## 3.0.1 - 2023-08-dd
+## 3.0.1 - 2023-08-27
 
 ### Fixed
 - Ensure same promise is returned from `memoize` that is cached.
