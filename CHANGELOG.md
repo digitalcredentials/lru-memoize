@@ -1,6 +1,6 @@
 # @digitalbazaar/lru-memoize ChangeLog
 
-## 3.0.2 - 2023-08-dd
+## 3.0.2 - 2023-08-27
 
 ### Fixed
 - Only remove promise entries from cache after settling if the entry has not
