@@ -1,6 +1,6 @@
 {
   "name": "@digitalbazaar/lru-memoize",
-  "version": "3.0.2-0",
+  "version": "3.0.2",
   "description": "LRU Memoize",
   "license": "BSD-3-Clause",
   "type": "module",
